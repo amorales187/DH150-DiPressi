@@ -3,4 +3,4 @@
 # Hello, there! 
 ## Welcome
 
-![see a pretty sunrise](sunrise.png)
+![see a pretty sunrise](Sunrise.png)
