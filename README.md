@@ -23,3 +23,9 @@ Heuristic & Description | CCLE Heuristic Evaluation | Improvement
 **Aesthetic and minimalist design:** Design is not cluttered and easily accessible. | **Bad:** The large colored bars for each class at the home page are not needed. They clutter the page and make it so you have to scroll more. | **Improvement:** Take away the colored blocks and just have separate, distinct boxes for each course.
 **Help users recognize, diagnose, and recover from errors:** Have a non-concerning message about an error and give information on how to fix it of move forward. | **Bad:** Error notifications have to be manually put on, through a 4 step process. | **Improvement:** Have error notifications be set automatically. The user can manually turn them off if that is their choice.
 **Help and documentation:** Have easily accessible and understandable help pages or pages with commonly asked questions. | **Bad:** Help takes you to an outside page, out of the app. The help seems to be more catered to administrators, rather than users. No search for help. No FAQ, common issues. No Trouble shooting. Help does not reflect the app or how it looks. | **Improvement:** Have a help that is centered for users within the app and one that reflects the app that is in use. An FAQ of troubleshooting option in the app would also be helpful. 
+
+#### Severity Rating 
+1. Top Priority
+  * item
+1. Important to Fix
+1. 
