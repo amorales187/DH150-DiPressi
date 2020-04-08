@@ -5,6 +5,7 @@ Description or project overall
 
 ### CCLE Mobile 
 *The CCLE Mobile App is used in conjunction with the UCLA web CCLE (Common Collaboration and Learning Environment) page. It is the page where students access their course websites and materials such as a syllabus and readings. Assignments are submitted through here and grades are given here as well. It is a page where the instructor can give out information to the class as a whole.* 
+
 ![CCLE Mobile Screenshot](CCLE-Mobile.png)
 
 evaluation of the app
