@@ -2,4 +2,5 @@
 ## Emily DiPressi - Digital Humanities 150
 
 Description
-![see a pretty sunrise](Sunrise.png)
+
+![CCLE Mobile Screenshot](Sunrise.png)
