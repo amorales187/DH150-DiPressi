@@ -17,6 +17,7 @@ Heuristic and description | CCLE heuristic evaluation
 **Consistency and standards:** Design and usage is consistent across all pages of the web/app. | Some drop down menus are not the same style: check in circle; smaller, dark circle in larger one. Square vs circle in one case. Click on a class and give at the top: Contents, Grades, Competencies?????
 **Error prevention:** Provide safety nets for user, such as confirming an action. | There is a save button for when submitting assignments 
 **Recognition rather than recall:** Provide suggestions or context in actions. | Search courses, doesn’t search your courses but searches for other courses
-
-
-
+**Flexibility and efficiency of use:** Make a page that is accessible to all, have basic functions at the forefront and more advanced options accessible through more steps. |General settings and then more advanced, less used ones separate, such as synching.
+**Aesthetic and minimalist design:** Design is not cluttered and easily accessible. | The large colored bars for each class at the home page are not needed. They clutter the page and make it so you have to scroll more. 
+**Help users recognize, diagnose, and recover from errors:** Have a non-concerning message about an error and give information on how to fix it of move forward. | Error notifications have to be manually put on. Through a 4 step process.
+**Help and documentation:** Have easily accessible and understandable help pages or pages with commonly asked questions. | Help takes you to an outside page, out of the app.The help seems to be more catered to administrators, rather than users. No search for help. No faq, common issues. No Trouble shooting. Help does not reflect the app or how it looks 
