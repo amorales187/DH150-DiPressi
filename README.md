@@ -25,6 +25,6 @@ Heuristic & Description | CCLE Heuristic Evaluation | Improvement
 **Help and documentation:** Have easily accessible and understandable help pages or pages with commonly asked questions. | **Bad:** Help takes you to an outside page, out of the app. The help seems to be more catered to administrators, rather than users. No search for help. No FAQ, common issues. No Trouble shooting. Help does not reflect the app or how it looks. | **Improvement:** Have a help that is centered for users within the app and one that reflects the app that is in use. An FAQ of troubleshooting option in the app would also be helpful. 
 
 #### Severity Rating 
-1. Top Priority: Visibility of system status; help and documentation
-2. Important to Fix: Match between system and real world; user control and freedom; recognition rather than recall; flexibility and efficiency of use
-3. Small Inconvenience: help users recognize, diagnose, and recover from errors; consistency and standards; aesthetic and minimalist design
+1. Top Priority: Visibility of system status; Help and documentation
+2. Important to Fix: Match between system and real world; User control and freedom; Recognition rather than recall; Flexibility and efficiency of use
+3. Small Inconvenience: Help users recognize, diagnose, and recover from errors; Consistency and standards; Aesthetic and minimalist design
