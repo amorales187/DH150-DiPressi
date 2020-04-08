@@ -4,4 +4,4 @@
 Description
 
 ### CCLE Mobile 
-![CCLE Mobile Screenshot](CCLE Mobile.png)
+![CCLE Mobile Screenshot](CCLE-Mobile.png)
