@@ -50,3 +50,8 @@ Heuristic & Description | CCLE Heuristic Evaluation | Improvement
 **Aesthetic and minimalist design:** Design is not cluttered and easily accessible. | **Bad:** TWeb page styles change when different links are clicked. Pages are often times busy and have small and hard to read fonts. | **Improvement:** Create a streamlined webpage. One that does not change websites and keeps the same web theme throughout. This will help a lot of the issues. 
 **Help users recognize, diagnose, and recover from errors:** Have a non-concerning message about an error and give information on how to fix it of move forward. | **Bad:** 404 error page was not easy to understand. | **Improvement:** HHave an explanation of what went wrong and how to fix it. Many sites now have personalized 404 error pages that soften the error waring. This could be useful here.
 **Help and documentation:** Have easily accessible and understandable help pages or pages with commonly asked questions. | **Good:** There is a contact us option in the about drop down that has an FAQ link and a help link. **Bad:** There is no option to give manual feedback. | **Improvement:** Make available an option to provide feedback on the website or to have more in depth questions than the ones in the FAQ listing. 
+
+#### Severity Rating 
+1. Top priority: Aesthetic and minimalist design; Consistency and standards; User control and freedom
+2. Important to fix: Visibility of system status; Match between system and real world; Error prevention; Flexibility and efficiency of use
+3. Inconvenience: Help users recognize, diagnose, and recover form errors; Help and documentation
