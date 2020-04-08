@@ -1,7 +1,7 @@
 # Project Title 
 ## Emily DiPressi - Digital Humanities 150
 
-The CCLE app was an easy choice for me, because when I first heard about the CCLE app I was very excited because I thought it was going to be something valuable and would be easier to navigate on my phone rather than the myUCLA webpage on Safari. When I first downloaded the app, however, and tried to use it, I was unimpressed, mostly by the lack of synchronization that the app had with the webpage version. The weather page was also an easy choice for me because I have started ym day by looking at the weather for as long and I can remember. Throughout my years I have come across good and bad weather websites, so to evaluate the official site was a good choice. Initially the webpage seemed very overwhelming and dated. It had a lot of options to click on even on just the first page and seemed very intimidating before I started searching for anything.   
+The CCLE app was an easy choice for me, because when I first heard about the CCLE app I was very excited because I thought it was going to be something valuable and would be easier to navigate on my phone rather than the myUCLA webpage on Safari. When I first downloaded the app, however, and tried to use it, I was unimpressed, mostly by the lack of synchronization that the app had with the webpage version. The National Weather Service page was also an easy choice for me because I have started my day by looking at the weather for as long and I can remember. Throughout my years I have come across good and bad weather websites, so to evaluate the official site was a good choice. Initially the webpage seemed very overwhelming and dated. It had a lot of options to click on even on just the first page and seemed very intimidating before I started searching for anything.   
 
 ### CCLE Mobile 
 *The CCLE Mobile App is used in conjunction with the UCLA web CCLE (Common Collaboration and Learning Environment) page. It is the page where students access their course websites and materials such as a syllabus and readings. Assignments are submitted through here and grades are given here as well. It is a page where the instructor can give out information to the class as a whole.* 
@@ -33,4 +33,4 @@ Heuristic & Description | CCLE Heuristic Evaluation | Improvement
 ### National Weather Service
 *description of hte NWS*
 
-![NWS Screenshot](CCLE-Mobile.png)
+![NWS Screenshot](Weather.png)
