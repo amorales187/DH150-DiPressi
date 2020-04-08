@@ -31,13 +31,13 @@ Heuristic & Description | CCLE Heuristic Evaluation | Improvement
 
 
 ### National Weather Service
-*description of hte NWS*
+*The National Weather Service website works in conjunction with the National Oceanic and Atmospheric Administration. They provide local and national weather forecasts along with detailed maps that contain other meteorological information on maps. They have past weather, safety, and educational material on their website.*
 
 ![NWS Screenshot](Weather.png)
 https://www.weather.gov/
 
 #### Evaluation 
-*Overall:*
+*Overall: The National Weather Service website is not an easily navigable website. However, it is very easy to get lost in the web page. Since the website works with two corporations you never know where a link will take you. This does not make the user experience smooth or enjoyable. The designs change with almost every page change and those pages are also overwhelming with different information and designs. This website needs major improvements.*
 
 Heuristic & Description | CCLE Heuristic Evaluation | Improvement 
 --------------------------|---------------------------|------------
