@@ -8,7 +8,8 @@ Description or project overall
 
 ![CCLE Mobile Screenshot](CCLE-Mobile.png)
 
-*Overall Evaluation: The CCLE Mobile App has a long way to go until it measures up to the CCLE webpage. There are many striking issues and the major one being that it is not properly synched to the students schedule. If all current classes are not on the app, there is no reason in the first place to use the app. In its current state the app is not used to its full capacity. There are many consistency errors that need to be fixed along with ease of usability.*
+#### Evaluation
+*Overall: The CCLE Mobile App has a long way to go until it measures up to the CCLE webpage. There are many striking issues and the major one being that it is not properly synched to the students schedule. If all current classes are not on the app, there is no reason in the first place to use the app. In its current state the app is not used to its full capacity. There are many consistency errors that need to be fixed along with ease of usability.*
 
 Heuristic and description | CCLE heuristic evaluation | Improvement 
 --------------------------|---------------------------|------------
