@@ -54,4 +54,4 @@ Heuristic & Description | CCLE Heuristic Evaluation | Improvement
 #### Severity Rating 
 1. Top priority: Aesthetic and minimalist design; Consistency and standards; User control and freedom
 2. Important to fix: Visibility of system status; Match between system and real world; Error prevention; Flexibility and efficiency of use
-3. Inconvenience: Help users recognize, diagnose, and recover form errors; Help and documentation
+3. Small Inconvenience: Help users recognize, diagnose, and recover form errors; Help and documentation
