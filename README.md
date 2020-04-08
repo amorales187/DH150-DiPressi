@@ -27,5 +27,6 @@ Heuristic & Description | CCLE Heuristic Evaluation | Improvement
 #### Severity Rating 
 1. Top Priority
   * item
-1. Important to Fix
-1. 
+  * item 
+2. Important to Fix
+3. Small Inconvenience
