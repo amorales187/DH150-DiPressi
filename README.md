@@ -39,7 +39,7 @@ https://www.weather.gov/
 #### Evaluation 
 *Overall: The National Weather Service website is not an easily navigable website. However, it is very easy to get lost in the web page. Since the website works with two corporations you never know where a link will take you. This does not make the user experience smooth or enjoyable. The designs change with almost every page change and those pages are also overwhelming with different information and designs. This website needs major improvements.*
 
-Heuristic & Description | CCLE Heuristic Evaluation | Improvement 
+Heuristic & Description | Weather.gov Heuristic Evaluation | Improvement 
 --------------------------|---------------------------|------------
 **Visibility of system status:** The web/app gives the user feedback in a timely manner concerning the actions they are currently doing. | **Bad:** The indication of what page I am looking at based on the top menu bar is not obvious. The small arrow sequence of page indication is hard to see. | **Improvement:** changing the color or the header of the page currently on would make it easier for users to navigate the pages and know what page they currently are one. 
 **Match between system and real world:** Design and icons are based off of general knowledge. Things the user will easily recognize. | **Good:** there are maps that reflect the area where the weather forecast is being displayed and there are visual icons that match the weather. **Bad:** Many acronyms are used that can be confusing and not common language for people that are not savvy in weather forecasting or the website. | **Improvement:** Use language that everyone will understand and limit the use of acronyms.
